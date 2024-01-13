@@ -1,31 +1,15 @@
-<<<<<<< HEAD
-# SwiftLink
-=======
-# SwiftLink
+# swiftLink - Your Digital Business Card Management Platform
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.0.0.
+Welcome to swiftLink – Your ultimate solution for creating and managing digital business cards seamlessly. Elevate your professional networking experience with swiftLink, designed for both individuals and teams.
 
-## Development server
+## Overview
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+swiftLink is a digital business card management platform that allows users to create, share, and manage their digital business cards effortlessly. Whether you're an individual professional or part of a team, swiftLink has you covered.
 
-## Code scaffolding
+## Features
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+- **Instant Digital Business Cards:**
+  Create your personalized digital business card in seconds with swiftLink's user-friendly interface.
 
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
->>>>>>> 6c65826 (initial commit)
+- **Cross-Platform Accessibility:**
+  Recipients can access your digital business card without needing the swiftLink app, ensuring compatibility across various devices.
